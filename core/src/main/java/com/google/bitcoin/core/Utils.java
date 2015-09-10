@@ -219,7 +219,7 @@ public class Utils {
 	    BMW256 bmw = new BMW256();
 	    digestA = bmw.digest(digestB);
 
-	    BMW256 bmw2 = new BMW256();
+	    //BMW256 bmw2 = new BMW256();
 
 	    return digestA;
 
