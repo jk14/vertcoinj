@@ -122,10 +122,10 @@ public class CoinDefinition {
     static public String[] dnsSeeds = new String[] {
 		"pool.verters.com",
 		"lonelyrainbowgames.co.uk",
-		"50.151.65.128",
-		"103.4.17.20",
-		"178.33.14.208",
-		"177.159.243.175"
+		"111.216.195.78",
+		"82.200.205.30",
+		"178.238.105.130",
+		"120.146.143.87"
     };
 
     //
